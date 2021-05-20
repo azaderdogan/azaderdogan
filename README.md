@@ -19,7 +19,7 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=azaderdogan&layout=compact">
 
 ## Programming Languages
-  <img src = 'https://github.com/azaderdogan/azaderdogan/blob/main/images/jetbrains-variant-2.png' width='30'/> <img src = 'https://github.com/azaderdogan/azaderdogan/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/azaderdogan/azaderdogan/blob/main/images/flutter-logo.svg' width='30'/>   <img src = 'https://github.com/azaderdogan/azaderdogan/blob/main/images/js.svg' width='30'/>  <img src = 'https://github.com/azaderdogan/azaderdogan/blob/main/images/django.svg' height='40'/> 
+  <img src = 'https://github.com/azaderdogan/azaderdogan/blob/main/images/Visual_Studio_Code_1.35_icon.svg' width='30'/> <img src = 'https://github.com/azaderdogan/azaderdogan/blob/main/images/PyCharm_Icon.svg' height='30'/> <img src = 'https://github.com/azaderdogan/azaderdogan/blob/main/images/flutter-logo.svg' width='30'/>  <img src = 'https://github.com/azaderdogan/azaderdogan/blob/main/images/js.svg' width='30'/>  <img src = 'hhttps://github.com/azaderdogan/azaderdogan/blob/main/images/python-logo-inkscape.svg' width='30'/>  <img src = 'https://github.com/azaderdogan/azaderdogan/blob/main/images/django.svg' height='40'/> 
  <img src = 'https://github.com/azaderdogan/azaderdogan/blob/main/images/sql.svg' width='30'/> <img src = 'https://github.com/azaderdogan/azaderdogan/blob/main/images/git.svg' width='30'/>
  
  ## Who am I?
