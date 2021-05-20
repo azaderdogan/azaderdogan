@@ -2,7 +2,7 @@
 ### Hey,[Azad here!]<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-AzadErdoğan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azaderdogan)](https://www.linkedin.com/in/haany-ali) [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:azadderdogan@gmail.com)](mailto:azadderdogan@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-AzadErdoğan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azaderdogan)](https://www.linkedin.com/in/haany-ali) [![Gmail Badge](https://img.shields.io/badge/-azadderdogan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:azadderdogan@gmail.com)](mailto:azadderdogan@gmail.com) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
 
 Welcome to my humble abode in the Digital World.. There are 10 types of people in the world. Those who get Binary and those who don't.
