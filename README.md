@@ -14,28 +14,15 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=azaderdogan&layout=compact">
 
 ## Programming Languages
-  <img src = 'https://github.com/azaderdogan/azaderdogan/blob/main/images/Visual_Studio_Code_1.35_icon.svg' width='30'/> <img src = 'https://github.com/azaderdogan/azaderdogan/blob/main/images/PyCharm_Icon.svg' height='30'/> <img src = 'https://github.com/azaderdogan/azaderdogan/blob/main/images/flutter-logo.svg' width='30'/>  <img src = 'https://github.com/azaderdogan/azaderdogan/blob/main/images/js.svg' width='30'/>  <img src = 'https://github.com/azaderdogan/azaderdogan/blob/main/images/django.svg' height='30'/> <img src = 'https://github.com/azaderdogan/azaderdogan/blob/main/images/python-seeklogo.com.svg' height='30'/>
+  <img src = 'https://github.com/azaderdogan/azaderdogan/blob/main/images/PyCharm_Icon.svg' height='30'/> <img src = 'https://github.com/azaderdogan/azaderdogan/blob/main/images/flutter-logo.svg' width='30'/>  <img src = 'https://github.com/azaderdogan/azaderdogan/blob/main/images/js.svg' width='30'/>  <img src = 'https://github.com/azaderdogan/azaderdogan/blob/main/images/django.svg' height='30'/> <img src = 'https://github.com/azaderdogan/azaderdogan/blob/main/images/python-seeklogo.com.svg' height='30'/>
  <img src = 'https://github.com/azaderdogan/azaderdogan/blob/main/images/sql.svg' width='30'/> <img src = 'https://github.com/azaderdogan/azaderdogan/blob/main/images/git.svg' width='30'/>
  
  ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Azad Erdoğan'
+	user = 'Azad Erdoğan'
 	current_edu = "Firat University"
-	hobbies = [
-				'Coding',
-				'Watching Youtube',
-			]
-	
-	def getCity():
-		return SiirtInTurkey()
-	
-	def Ambitions():
-		LearnEnglish()
-		BestCoding()
-		# Assume 10 more awesome ambitions here  ;)
-	
- ```
+```
  
 ## Current Works
  * I'm currently working on 🔭 building **Mobile Apps using Flutter**,  building **Web Applications using Django and DRF** and working up on polishing my skills 🌱 in **Competitive Programming**.
