@@ -7,12 +7,7 @@
 
 Welcome to my humble abode in the Digital World.. There are 10 types of people in the world. Those who get Binary and those who don't.
 
-## :computer: Technologies I Love
-* Flutter
-* Django
-* Django Rest FrameWork
-* Java
-* Computer Vision
+
 
 * Backend Web Development and Mobile Apps Development
 
